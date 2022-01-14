@@ -1,0 +1,13 @@
+The growth of the buffer:
+
+Number of Tasks: 0
+Max Buffer Size: 0
+Time Sequential = 0 min, 0sec, 0 msec. 
+Time Concurrent = 0 min, 0sec, 9 msec. 
+Number of Loaded Challenges: 500
+Number of Worker Threads: 40
+Provider min: 50
+Provider max: 500
+Class: DINF4
+Student Number One: 0966972
+Student Number Two: 0958779
