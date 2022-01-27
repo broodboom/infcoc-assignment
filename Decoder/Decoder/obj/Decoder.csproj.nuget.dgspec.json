@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Thomas\\Downloads\\Assignment\\Assignment\\Decoder\\Decoder\\Decoder.csproj": {}
+    "C:\\Users\\Thomas\\Workspaces\\infcoc-assignment\\Decoder\\Decoder\\Decoder.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Thomas\\Downloads\\Assignment\\Assignment\\Decoder\\Decoder\\Decoder.csproj": {
+    "C:\\Users\\Thomas\\Workspaces\\infcoc-assignment\\Decoder\\Decoder\\Decoder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Thomas\\Downloads\\Assignment\\Assignment\\Decoder\\Decoder\\Decoder.csproj",
+        "projectUniqueName": "C:\\Users\\Thomas\\Workspaces\\infcoc-assignment\\Decoder\\Decoder\\Decoder.csproj",
         "projectName": "Decoder",
-        "projectPath": "C:\\Users\\Thomas\\Downloads\\Assignment\\Assignment\\Decoder\\Decoder\\Decoder.csproj",
+        "projectPath": "C:\\Users\\Thomas\\Workspaces\\infcoc-assignment\\Decoder\\Decoder\\Decoder.csproj",
         "packagesPath": "C:\\Users\\Thomas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Thomas\\Downloads\\Assignment\\Assignment\\Decoder\\Decoder\\obj\\",
+        "outputPath": "C:\\Users\\Thomas\\Workspaces\\infcoc-assignment\\Decoder\\Decoder\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Thomas\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,8 +13,8 @@ namespace Decoder
         public const string classNumber = "DINF4"; // This must be filled. INF2A is just an example.
 
         public const int numOfWorkers = 40; // how many workers are needed to keep the max size of the shared buffer between 50 - 100?
-        public const int minSendIntervalTime = 50; // min sending interval time (in msec) by the provider
-        public const int maxSendIntervalTime = 500; // max sending interval time (in msec) by the provider
+        public const int minSendIntervalTime = 100; // min sending interval time (in msec) by the provider
+        public const int maxSendIntervalTime = 100; // max sending interval time (in msec) by the provider
     }
 
     // The values of FixedParams must not change in the final submission.

@@ -44,7 +44,7 @@ namespace ConcDecoder
             TaskDecryption t = null;
 
             lock (lockObject)
-            {                
+            {
                 if (this.taskBuffer.Count > 0)
                 {
                     t = this.taskBuffer.Dequeue();
@@ -65,7 +65,7 @@ namespace ConcDecoder
         {
             lock (lockObject)
             {
-                Console.Write("Buffer#{0} ; ", this.taskBuffer.Count);
+                Console.WriteLine("Buffer#{0}", this.taskBuffer.Count);
             }
         }
     }
@@ -99,7 +99,7 @@ namespace ConcDecoder
                 Thread t = new Thread(() => {
                     Worker worker = new Worker(tasks);
                     worker.ExecuteTasks();
-                });        
+                });
 
                 t.Start();
             }
